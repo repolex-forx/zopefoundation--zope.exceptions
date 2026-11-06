@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/zopefoundation/zope.exceptions/commit/dc273c2b6184d34095d932de7e025adbac1a2979",
       "git:hexsha": "dc273c2b6184d34095d932de7e025adbac1a2979",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/zopefoundation/zope.exceptions/commit/7dbfec6332e75546aa6f1f112f4584add7619de6",
