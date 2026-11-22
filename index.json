@@ -3,6 +3,11 @@
   "repo": "zope.exceptions",
   "versions": [
     {
+      "commit": "aeb4109b966a9b38cee0523fa763718024fb6c13",
+      "tag": "6.0",
+      "parsed_at": "2026-11-22T01:15:40.375561+00:00"
+    },
+    {
       "commit": "dc273c2b6184d34095d932de7e025adbac1a2979",
       "tag": "",
       "parsed_at": "2026-11-06T01:25:56.396575+00:00"
